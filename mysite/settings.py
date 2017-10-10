@@ -25,7 +25,7 @@ SECRET_KEY = '5!muv7_@h(puw456v$(-0d9bw%0!px5+k)6@2fibfi!fp%au9n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'drann.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'rpg4life.pythonanywhere.com']
 
 
 # Application definition
