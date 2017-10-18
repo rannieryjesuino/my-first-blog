@@ -53,8 +53,8 @@ body h1 {
 
 .post {
     margin-bottom: 70px;
-    background-image: url("background2.png");
-    background-size: 100% 100%;
+    border-style: outset;
+    border-color: mediumturquoise;
 }
 
 .post h1 a, .post h1 a:visited, .post p, .post h1 {
