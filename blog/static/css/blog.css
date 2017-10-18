@@ -1,5 +1,5 @@
 .page-header {
-    background-color: #ff9400;
+    background-color: mediumturquoise;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -16,10 +16,24 @@
 
 h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
+    text-align: center;
+}
+
+body {
+  background-image: url("background1.png");
+  background-size: cover;
+}
+
+body h1 {
+  color: white;
+}
+
+.row {
+  text-align: center;
 }
 
 .date {
-    color: #828282;
+    color: #ffffff;
 }
 
 .save {
@@ -39,8 +53,14 @@ h1, h2, h3, h4 {
 
 .post {
     margin-bottom: 70px;
+    background-image: url("background2.png");
+    background-size: 100% 100%;
 }
 
-.post h1 a, .post h1 a:visited {
-    color: #000000;
+.post h1 a, .post h1 a:visited, .post p, .post h1 {
+    color: white;
+}
+
+.post p{
+  font-family: "Courier New", Courier, monospace;
 }
